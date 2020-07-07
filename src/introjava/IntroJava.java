@@ -43,5 +43,7 @@ public class IntroJava {
         System.out.print("Que edad tiene su pareja: ");
         edadPareja = t.nextInt();
         System.out.println("La edad de su pareja es "+edadPareja);
+        // Nuevo cambio
+        System.out.println("Hemos aprendido a trabajar con Git (algo)");        
     }
 }
